@@ -1,4 +1,4 @@
-# Handwritten Number Predictor written in python.
+# Handwritten Number Predictor.
 This file is created using mnist handwritten image data for 0-9 number.
 
 ## Creation of Neural Network:
